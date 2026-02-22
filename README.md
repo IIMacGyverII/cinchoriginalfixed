@@ -29,8 +29,8 @@ Static website for CINCH Systems, built with Adobe Muse CC 2018. This repo conta
 - All VBS pages use a different nav column structure (`#u4746` + `#u4746_position_content`) compared to secondary/IDS/door pages
 - Original `#u4746 margin-top` was `-10px`, causing the nav bar to appear ~14px too high on VBS pages
 - Corrected `#u4746 margin-top` across all 36 VBS CSS files so the nav bar lands precisely at **21px from the page top**, matching all other page types:
-  - 31 files: `margin-top:4px` (paired with `#u4746_position_content { padding-top:15px }`)
-  - 4 files: `margin-top:4px` (paired with `padding:15px` shorthand directly on `#u4746`)
+  - 31 files: `margin-top:-3px` (paired with `#u4746_position_content { padding-top:15px }`)
+  - 4 files: `margin-top:-3px` (paired with `padding:15px` shorthand directly on `#u4746`)
   - 1 file (`vbs_e-r-kit.css`): uses IDS nav structure, already correct — no change needed
 
 **Index page nav bar alignment (`css/index.css`)**
@@ -47,6 +47,35 @@ Static website for CINCH Systems, built with Adobe Muse CC 2018. This repo conta
 | IDS | 53 | 21px |
 | VBS | 36 | 21px |
 | Door / Gate | 7 | 21px |
+
+### Background & Styling Consistency
+
+**`css/index.css`**
+- `#page` background: removed grey-to-white gradient (`linear-gradient #DCDCDC→#FFFFFF`) → `background-image:none; background-color:#FFFFFF` to match all other pages
+- `#page` `min-height`: `694px` → `693px` to match all other pages
+- `#u107` and `#u107-bw` flag background height: `583px` → `581px` to match all other pages
+
+**VBS flag background (35 CSS files)**
+- `#u4660,#u4660-bw{min-height:581px}` split into two rules:
+  - `#u4660{height:581px}` — fixed height replacing `min-height`, matching all other page types
+  - `#u4660-bw{margin-top:7px;height:581px}` — added the 7px top offset present on all other page types
+- Note: In VBS pages `#u4660-bw` is the **DOM parent** of the nav column (`#u4746`), unlike all other page types where the flag bg is a sibling of the nav. Adding `margin-top:7px` to `#u4660-bw` therefore also shifted the nav bar down by 7px, requiring a compensating adjustment (see below)
+
+**VBS nav bar re-correction after flag bg fix (35 CSS files)**
+- Because `#u4660-bw` is the nav's parent, the `margin-top:7px` flag bg fix pushed the nav 7px lower
+- Corrected by changing `#u4746 margin-top: 4px → -3px` across all 35 files
+- Final VBS nav formula: `7(u4660-bw) + (-3)(u4746) + 15(u4746_position_content) + 2(menuu11870) = 21px`
+
+**All 5 page types confirmed identical on every shared structural property:**
+
+| Property | All page types |
+|----------|----------------|
+| `#page` background | `#FFFFFF` solid white, `background-image:none` |
+| `#page` min-height | `693px` |
+| Flag bg `-bw` height | `581px` |
+| Flag bg `-bw` margin-top | `7px` |
+| Nav bar top from page | `21px` |
+| Menu bar dimensions | `640×53px`, `margin-top:2px`, `left:6px` |
 
 ---
 
