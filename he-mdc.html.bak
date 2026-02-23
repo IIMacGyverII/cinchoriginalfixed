@@ -3,8 +3,8 @@
  <head>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="description" content="LCD Touch Screen Control Color, Recess Mount | CINCH systems"/>
-  <meta name="keywords" content="Commercial Door and Security Gate Controls, Vehicle Barrier Controls, VBS, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security"/>
+  <meta name="description" content="Manual Door Controller, Encrypted | CINCH Systems"/>
+  <meta name="keywords" content="Manual Door Controls, VBS, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security"/>
   <meta name="generator" content="2018.1.1.386"/>
   
   <script type="text/javascript">
@@ -12,20 +12,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "dg_touchscreen-metal.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "he-mdc.css"], "outOfDate":[]};
 </script>
   
-  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresDG_touchscreen Metal</title>
+  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresHe-MDC</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4279427274&amp;v=11"/>
   <link rel="stylesheet" type="text/css" href="css/master_door-gate.css?crc=12082367&amp;v=11"/>
-  <link rel="stylesheet" type="text/css" href="css/dg_touchscreen-metal.css?crc=116604302&amp;v=11" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/he-mdc.css?crc=460859970&amp;v=11" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378&amp;v=11" type="text/javascript"></script>
   <![endif]-->
     <!--custom head HTML-->
-
+  CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures
  <style>#cinch-anniversary{position:absolute;left:300px;top:15px;}#cinch-anniversary img{width:80px;height:80px;display:block;}</style>
  
 <!-- shim-hide inserted by script -->
@@ -102,7 +102,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5103" href="ce-door-ez.html" data-href="page:U4572"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5105-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Door E-Z Control</p></div></a>
         </div>
         <div class="MenuItemContainer clearfix grpelem" id="u5095"><!-- vertical box -->
-         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5098" href="he-mdc.html" data-href="page:U4599"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5101-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Manual Door Controller</p></div></a>
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u5098" href="he-mdc.html" data-href="page:U4599"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5101-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Manual Door Controller</p></div></a>
         </div>
         <div class="MenuItemContainer clearfix grpelem" id="u5109"><!-- vertical box -->
          <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5110" href="he-motor.html" data-href="page:U4626"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5113-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Motor Module</p></div></a>
@@ -119,56 +119,48 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <div class="SubMenu MenuLevel1 clearfix" id="u12623"><!-- vertical box -->
           <ul class="SubMenuView clearfix colelem" id="u12624"><!-- vertical box -->
            <li class="MenuItemContainer clearfix colelem" id="u12629"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u12630" href="dg_touchscreen-plastic.html" data-href="page:U12673"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12632-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Plastic Housing, Surface</p></div></a></li>
-           <li class="MenuItemContainer clearfix colelem" id="u12639"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u12640" href="dg_touchscreen-metal.html" data-href="page:U12705"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12643-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Metal Housing, Recessed</p></div></a></li>
+           <li class="MenuItemContainer clearfix colelem" id="u12639"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u12640" href="dg_touchscreen-metal.html" data-href="page:U12705"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12643-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Metal Housing, Recessed</p></div></a></li>
           </ul>
          </div>
         </div>
        </nav>
-       <div class="clearfix colelem" id="pu12722-44"><!-- group -->
-        <!-- m_editable region-id="editable-static-tag-U12722-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u12722-44" data-muse-uid="U12722" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <h1 id="u12722-4">C<span id="u12722-2">e</span>LAN Touch Screen Control LCD display</h1>
-         <p id="u12722-6">Ce-TS-Door</p>
-         <p id="u12722-7">&nbsp;</p>
-         <p class="body-copy" id="u12722-9">The CeLAN Touch Screen provides a 5.7” Color LCD (liquid-crystal display), to provide the user with complete on-site system programming and operation control of the CINCH System. The 5.7” Color LCD provides a graphical user interface to display visual status messages for the entire system. The display identifies any programmed location so the user can determine where an alarm, trouble, or open-sensor condition exists. Location names or zone/sensor text are displayed allowing for easy identification.</p>
-         <p class="body-copy" id="u12722-11">CeLAN AES encrypted technology for security, easy setup and enhanced performance.</p>
-         <ul class="list0 nls-None" id="u12722-42">
-          <li>5.7” Color Touch Screen with protective display overlay and Lexan shield.</li>
-          <li>Simple, easy to use Graphical User Interface.</li>
-          <li>Four pass code entry options.</li>
-          <li>Scrambled/Standard QWERTY.</li>
-          <li>Scrambled/Standard 12-key numeric.</li>
-          <li>Built-in ‘on-line’ help and diagnostic screens.</li>
-          <li>Two hardware input zones per module.</li>
-          <li>Five (5) state zones:</li>
-          <li id="u12722-29">Open Circuit</li>
-          <li id="u12722-31">Supervised Circuit (3k EOL)</li>
-          <li id="u12722-33">Short Circuit</li>
-          <li id="u12722-35">Ground Fault High</li>
-          <li id="u12722-37">Ground Fault Low</li>
-          <li>Surface or recessed mounting options.</li>
-          <li>CINCH Stick field upgradeable software.</li>
-         </ul>
+       <div class="clearfix colelem" id="pu11532-16"><!-- group -->
+        <!-- m_editable region-id="editable-static-tag-U11532-BP_infinity" template="he-mdc.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+        <div class="clearfix grpelem" id="u11532-16" data-muse-uid="U11532" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+         <h1 id="u11532-4">H<span id="u11532-2">e</span>LAN Manual Door Controller</h1>
+         <p id="u11532-6">He-MDC</p>
+         <p id="u11532-7">&nbsp;</p>
+         <p class="body-copy" id="u11532-9">The HeLAN MDC Module is a microprocessor based door control interface card for use with the Ce-Door-EZ control. Complies with the new 2016 UL 325 requirement. The He-MDC provides discrete inputs for gate open, close, stop, override, emergency fast activations. In addition associated LED outputs support dynamic status indication. The module wires back to the Ce-Door-EZ with a single 4-conductor making for an easy installation.</p>
+         <p class="body-copy" id="u11532-11">Supports bidirectional HeLAN communications. This exclusive technology surpasses ladder logic wiring methods eliminating wiring errors between the controllers for minimal installation time providing added value to turnkey installations.</p>
+         <p class="body-copy" id="u11532-13">Provides simplified board level troubleshooting with quick up time response eliminating time consuming diagnostics. Indus-try proven and reliable, circuit boards are easily and cost effectively exchanged for up-grades.</p>
+         <p id="u11532-14">&nbsp;</p>
         </div>
         <!-- /m_editable -->
-        <div class="clearfix grpelem" id="pu13958"><!-- column -->
-         <!-- m_editable region-id="editable-static-tag-U13958-BP_infinity" template="dg_touchscreen-metal.html" data-type="image" -->
-         <div class="clip_frame colelem" id="u13958" data-muse-uid="U13958" data-muse-type="img_frame"><!-- image -->
-          <img class="block" id="u13958_img" src="images/137%20touch%20pad.jpg?crc=3837472632" alt="CINCH systems Encrypted Touch Screen Control Recessed Mount" width="248" height="169" data-muse-src="images/137%20touch%20pad.jpg?crc=3837472632"/>
+        <div class="clearfix grpelem" id="pu11558"><!-- column -->
+         <!-- m_editable region-id="editable-static-tag-U11558-BP_infinity" template="he-mdc.html" data-type="image" -->
+         <div class="clip_frame colelem" id="u11558" data-muse-uid="U11558" data-muse-type="img_frame"><!-- image -->
+          <img class="block" id="u11558_img" src="images/134%20he-mdc1.jpg?crc=310138597" alt="CINCH systems Encrypted Manual Door Control" width="270" height="131" data-muse-src="images/134%20he-mdc1.jpg?crc=310138597"/>
          </div>
          <!-- /m_editable -->
-         <nav class="MenuBar clearfix colelem" id="menuu12724"><!-- horizontal box -->
-          <div class="MenuItemContainer clearfix grpelem" id="u12725"><!-- vertical box -->
-           <!-- m_editable region-id="editable-static-tag-U12726" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-           <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u12726" href="assets/5---ce-ts.pdf" data-href="upload:U28720" target="_blank" data-muse-uid="U12726"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U12727-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12727-6" data-muse-uid="U12727" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u12727-2">Download</p><p id="u12727-4">Data Sheet</p></div><!-- /m_editable --></a>
+         <nav class="MenuBar clearfix colelem" id="menuu11534"><!-- horizontal box -->
+          <div class="MenuItemContainer clearfix grpelem" id="u11535"><!-- vertical box -->
+           <!-- m_editable region-id="editable-static-tag-U11538" template="he-mdc.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u11538" href="assets/97---ds-he-mdc2.pdf" data-href="upload:U33051" target="_blank" data-muse-uid="U11538"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U11539-BP_infinity" template="he-mdc.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u11539-6" data-muse-uid="U11539" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u11539-2">Download</p><p id="u11539-4">Data Sheet</p></div><!-- /m_editable --></a>
+           <!-- /m_editable -->
+          </div>
+         </nav>
+         <nav class="MenuBar clearfix colelem" id="menuu14314"><!-- horizontal box -->
+          <div class="MenuItemContainer clearfix grpelem" id="u14315"><!-- vertical box -->
+           <!-- m_editable region-id="editable-static-tag-U14318" template="he-mdc.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u14318" href="assets/i-he-motor---rev.-a---installation-manual--july-20132.pdf" data-href="upload:U31291" target="_blank" data-muse-uid="U14318"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U14319-BP_infinity" template="he-mdc.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u14319-8" data-muse-uid="U14319" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u14319-2">Download</p><p id="u14319-6">INSTALLATION <br/>MANUAL</p></div><!-- /m_editable --></a>
            <!-- /m_editable -->
           </div>
          </nav>
         </div>
-        <!-- m_editable region-id="editable-static-tag-U12723-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="rounded-corners clearfix grpelem" id="u12723-6" data-muse-uid="U12723" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u12723-2">Product Applications:</p>
-         <p id="u12723-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
+        <!-- m_editable region-id="editable-static-tag-U11533-BP_infinity" template="he-mdc.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+        <div class="rounded-corners clearfix grpelem" id="u11533-6" data-muse-uid="U11533" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+         <p id="u11533-2">Product Applications:</p>
+         <p id="u11533-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
         </div>
         <!-- /m_editable -->
        </div>
@@ -190,7 +182,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="nonblock nontext clearfix grpelem" id="u25218-4" href="https://www.gsaelibrary.gsa.gov/ElibMain/manufacturer.do?mfrName=CINCH+SYSTEMS%2C+INC." data-IBE-flags="txtStyleSrc"><!-- content --><p>click for GSA ORDER Page</p></a>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="790" data-content-above-spacer="653" data-content-below-spacer="104"></div>
+   <div class="verticalspacer" data-offset-top="635" data-content-above-spacer="653" data-content-below-spacer="105"></div>
    <div class="clearfix grpelem" id="pu5005"><!-- group -->
     <div class="browser_width grpelem" id="u5005-bw">
      <div id="u5005"><!-- group -->

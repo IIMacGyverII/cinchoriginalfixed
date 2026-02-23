@@ -3,8 +3,8 @@
  <head>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="description" content="LCD Touch Screen Control Color, Recess Mount | CINCH systems"/>
-  <meta name="keywords" content="Commercial Door and Security Gate Controls, Vehicle Barrier Controls, VBS, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security"/>
+  <meta name="description" content="Color LCD Touch Screen Controls Surface Mount | CINCH systems"/>
+  <meta name="keywords" content="Vehicle Barrier Controls, VBS, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security, Touch Pad, Touch Screen Controls"/>
   <meta name="generator" content="2018.1.1.386"/>
   
   <script type="text/javascript">
@@ -12,20 +12,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "dg_touchscreen-metal.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "dg_touchscreen-plastic.css"], "outOfDate":[]};
 </script>
   
-  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresDG_touchscreen Metal</title>
+  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresDG_TOUCHSCREEN PLASTIC</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4279427274&amp;v=11"/>
   <link rel="stylesheet" type="text/css" href="css/master_door-gate.css?crc=12082367&amp;v=11"/>
-  <link rel="stylesheet" type="text/css" href="css/dg_touchscreen-metal.css?crc=116604302&amp;v=11" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/dg_touchscreen-plastic.css?crc=463147609&amp;v=11" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378&amp;v=11" type="text/javascript"></script>
   <![endif]-->
     <!--custom head HTML-->
-
+  CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures
  <style>#cinch-anniversary{position:absolute;left:300px;top:15px;}#cinch-anniversary img{width:80px;height:80px;display:block;}</style>
  
 <!-- shim-hide inserted by script -->
@@ -118,57 +118,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          </div>
          <div class="SubMenu MenuLevel1 clearfix" id="u12623"><!-- vertical box -->
           <ul class="SubMenuView clearfix colelem" id="u12624"><!-- vertical box -->
-           <li class="MenuItemContainer clearfix colelem" id="u12629"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u12630" href="dg_touchscreen-plastic.html" data-href="page:U12673"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12632-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Plastic Housing, Surface</p></div></a></li>
-           <li class="MenuItemContainer clearfix colelem" id="u12639"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u12640" href="dg_touchscreen-metal.html" data-href="page:U12705"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12643-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Metal Housing, Recessed</p></div></a></li>
+           <li class="MenuItemContainer clearfix colelem" id="u12629"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u12630" href="dg_touchscreen-plastic.html" data-href="page:U12673"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12632-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Plastic Housing, Surface</p></div></a></li>
+           <li class="MenuItemContainer clearfix colelem" id="u12639"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u12640" href="dg_touchscreen-metal.html" data-href="page:U12705"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12643-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Metal Housing, Recessed</p></div></a></li>
           </ul>
          </div>
         </div>
        </nav>
-       <div class="clearfix colelem" id="pu12722-44"><!-- group -->
-        <!-- m_editable region-id="editable-static-tag-U12722-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="clearfix grpelem" id="u12722-44" data-muse-uid="U12722" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <h1 id="u12722-4">C<span id="u12722-2">e</span>LAN Touch Screen Control LCD display</h1>
-         <p id="u12722-6">Ce-TS-Door</p>
-         <p id="u12722-7">&nbsp;</p>
-         <p class="body-copy" id="u12722-9">The CeLAN Touch Screen provides a 5.7” Color LCD (liquid-crystal display), to provide the user with complete on-site system programming and operation control of the CINCH System. The 5.7” Color LCD provides a graphical user interface to display visual status messages for the entire system. The display identifies any programmed location so the user can determine where an alarm, trouble, or open-sensor condition exists. Location names or zone/sensor text are displayed allowing for easy identification.</p>
-         <p class="body-copy" id="u12722-11">CeLAN AES encrypted technology for security, easy setup and enhanced performance.</p>
-         <ul class="list0 nls-None" id="u12722-42">
-          <li>5.7” Color Touch Screen with protective display overlay and Lexan shield.</li>
-          <li>Simple, easy to use Graphical User Interface.</li>
-          <li>Four pass code entry options.</li>
-          <li>Scrambled/Standard QWERTY.</li>
-          <li>Scrambled/Standard 12-key numeric.</li>
-          <li>Built-in ‘on-line’ help and diagnostic screens.</li>
-          <li>Two hardware input zones per module.</li>
-          <li>Five (5) state zones:</li>
-          <li id="u12722-29">Open Circuit</li>
-          <li id="u12722-31">Supervised Circuit (3k EOL)</li>
-          <li id="u12722-33">Short Circuit</li>
-          <li id="u12722-35">Ground Fault High</li>
-          <li id="u12722-37">Ground Fault Low</li>
-          <li>Surface or recessed mounting options.</li>
-          <li>CINCH Stick field upgradeable software.</li>
+       <div class="clearfix colelem" id="pu13358-25"><!-- group -->
+        <!-- m_editable region-id="editable-static-tag-U13358-BP_infinity" template="dg_touchscreen-plastic.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+        <div class="clearfix grpelem" id="u13358-25" data-muse-uid="U13358" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+         <h1 id="u13358-4">C<span id="u13358-2">e</span>LAN Touch Screen Control LCD display</h1>
+         <p id="u13358-6">Ce-TS-Door-P</p>
+         <p id="u13358-7">&nbsp;</p>
+         <p class="body-copy" id="u13358-9">An updated version of the very successful Ce-TS into a new high impact plastic housing.ﾠGraphical user interface on a 5.6&quot; color touch screen mounted inside a Belgium Grey (white/gray,) plastic frame. Includes mounting plate with built-in level and removal tamper. Mounts easily on a single, double, triple, or quad gang back box.</p>
+         <p class="body-copy" id="u13358-11">For SCIFs, where mounting into a recessed back box is not allowed or practical, two slim surface mount back boxes can be used.</p>
+         <p class="body-copy" id="u13358-13">Color LCD (liquid-crystal display) for complete on-site system IDS programming and IDS operation control of Protector and Protector II, Compatriot, Ascendant, or Rampart Systems.</p>
+         <p class="body-copy" id="u13358-15">Scrambled QWERTY or 12 key numeric keypad for entering pass codes. Online help screens lead user through trouble/diagnostic screens.</p>
+         <p id="u13358-18"><br/>Back box options:</p>
+         <ul class="list0 nls-None" id="u13358-23">
+          <li id="u13358-20">Part # E-TS-P-BB-NT: Use this back box with non-threaded conduit (ordered separately)</li>
+          <li id="u13358-22">Part#: E-TS-P-BB-T: Use this back box with threaded conduit (ordered separately).</li>
          </ul>
         </div>
         <!-- /m_editable -->
-        <div class="clearfix grpelem" id="pu13958"><!-- column -->
-         <!-- m_editable region-id="editable-static-tag-U13958-BP_infinity" template="dg_touchscreen-metal.html" data-type="image" -->
-         <div class="clip_frame colelem" id="u13958" data-muse-uid="U13958" data-muse-type="img_frame"><!-- image -->
-          <img class="block" id="u13958_img" src="images/137%20touch%20pad.jpg?crc=3837472632" alt="CINCH systems Encrypted Touch Screen Control Recessed Mount" width="248" height="169" data-muse-src="images/137%20touch%20pad.jpg?crc=3837472632"/>
+        <div class="clearfix grpelem" id="pu13367"><!-- column -->
+         <!-- m_editable region-id="editable-static-tag-U13367-BP_infinity" template="dg_touchscreen-plastic.html" data-type="image" -->
+         <div class="clip_frame colelem" id="u13367" data-muse-uid="U13367" data-muse-type="img_frame"><!-- image -->
+          <img class="block" id="u13367_img" src="images/138%20plastic%20touch%20pad%20(2)%20-%20copy.jpg?crc=4229087761" alt="CINCH systems Encrypted Touch Screen Control Surface Mount" width="240" height="154" data-muse-src="images/138%20plastic%20touch%20pad%20(2)%20-%20copy.jpg?crc=4229087761"/>
          </div>
          <!-- /m_editable -->
-         <nav class="MenuBar clearfix colelem" id="menuu12724"><!-- horizontal box -->
-          <div class="MenuItemContainer clearfix grpelem" id="u12725"><!-- vertical box -->
-           <!-- m_editable region-id="editable-static-tag-U12726" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-           <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u12726" href="assets/5---ce-ts.pdf" data-href="upload:U28720" target="_blank" data-muse-uid="U12726"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U12727-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12727-6" data-muse-uid="U12727" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u12727-2">Download</p><p id="u12727-4">Data Sheet</p></div><!-- /m_editable --></a>
+         <!-- m_editable region-id="editable-static-tag-U13369-BP_infinity" template="dg_touchscreen-plastic.html" data-type="image" -->
+         <div class="clip_frame colelem" id="u13369" data-muse-uid="U13369" data-muse-type="img_frame"><!-- image -->
+          <img class="block" id="u13369_img" src="images/ce-ts-pbp3.jpg?crc=382864500" alt="CINCH systems Encrypted Touch Screen Control -Side View" width="69" height="113" data-muse-src="images/ce-ts-pbp3.jpg?crc=382864500"/>
+         </div>
+         <!-- /m_editable -->
+         <nav class="MenuBar clearfix colelem" id="menuu13359"><!-- horizontal box -->
+          <div class="MenuItemContainer clearfix grpelem" id="u13360"><!-- vertical box -->
+           <!-- m_editable region-id="editable-static-tag-U13363" template="dg_touchscreen-plastic.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u13363" href="assets/4---ce-ts-p.pdf" data-href="upload:U28680" target="_blank" data-muse-uid="U13363"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U13364-BP_infinity" template="dg_touchscreen-plastic.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u13364-6" data-muse-uid="U13364" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u13364-2">Download</p><p id="u13364-4">Data Sheet</p></div><!-- /m_editable --></a>
            <!-- /m_editable -->
           </div>
          </nav>
         </div>
-        <!-- m_editable region-id="editable-static-tag-U12723-BP_infinity" template="dg_touchscreen-metal.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-        <div class="rounded-corners clearfix grpelem" id="u12723-6" data-muse-uid="U12723" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-         <p id="u12723-2">Product Applications:</p>
-         <p id="u12723-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
+        <!-- m_editable region-id="editable-static-tag-U12675-BP_infinity" template="dg_touchscreen-plastic.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+        <div class="rounded-corners clearfix grpelem" id="u12675-6" data-muse-uid="U12675" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+         <p id="u12675-2">Product Applications:</p>
+         <p id="u12675-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
         </div>
         <!-- /m_editable -->
        </div>
@@ -190,7 +185,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="nonblock nontext clearfix grpelem" id="u25218-4" href="https://www.gsaelibrary.gsa.gov/ElibMain/manufacturer.do?mfrName=CINCH+SYSTEMS%2C+INC." data-IBE-flags="txtStyleSrc"><!-- content --><p>click for GSA ORDER Page</p></a>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="790" data-content-above-spacer="653" data-content-below-spacer="104"></div>
+   <div class="verticalspacer" data-offset-top="711" data-content-above-spacer="653" data-content-below-spacer="104"></div>
    <div class="clearfix grpelem" id="pu5005"><!-- group -->
     <div class="browser_width grpelem" id="u5005-bw">
      <div id="u5005"><!-- group -->

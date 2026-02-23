@@ -3,8 +3,8 @@
  <head>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="description" content="Encrypted Expantion Module | CINCH systems"/>
-  <meta name="keywords" content="Commercial Door and Security Gate System Expantion Module, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security"/>
+  <meta name="description" content="DooR and Gate Motor Module | CINCH systems"/>
+  <meta name="keywords" content="Door and Gate Motor Module, Controls, VBS, Security Gate and Door Control Modules, Perimter Protection, AES, Encryption, Control Panel Modules, CINCH systems, CINCH, CINCH Security"/>
   <meta name="generator" content="2018.1.1.386"/>
   
   <script type="text/javascript">
@@ -12,20 +12,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "expander-module.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "require.js", "he-motor.css"], "outOfDate":[]};
 </script>
   
-  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresEXPANDER MODULE</title>
+  <title>CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and EnclosuresHe-MOTOR</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4279427274&amp;v=11"/>
   <link rel="stylesheet" type="text/css" href="css/master_door-gate.css?crc=12082367&amp;v=11"/>
-  <link rel="stylesheet" type="text/css" href="css/expander-module.css?crc=3907145919&amp;v=11" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/he-motor.css?crc=4058402636&amp;v=11" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378&amp;v=11" type="text/javascript"></script>
   <![endif]-->
     <!--custom head HTML-->
-
+  CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures
  <style>#cinch-anniversary{position:absolute;left:300px;top:15px;}#cinch-anniversary img{width:80px;height:80px;display:block;}</style>
  
 <!-- shim-hide inserted by script -->
@@ -104,10 +104,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5098" href="he-mdc.html" data-href="page:U4599"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5101-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Manual Door Controller</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u5109"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5110" href="he-motor.html" data-href="page:U4626"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5113-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Motor Module</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u5110" href="he-motor.html" data-href="page:U4626"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5113-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Motor Module</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u12615"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u12616" href="expander-module.html" data-href="page:U12651"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12617-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Expander Module</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u12616" href="expander-module.html" data-href="page:U12651"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12617-4" data-IBE-flags="txtStyleSrc"><!-- content --><p>Expander Module</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u12622"><!-- vertical box -->
         <div class="MenuItem MenuItemWithSubMenu clearfix colelem" id="u12625"><!-- horizontal box -->
@@ -123,40 +123,46 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
        </div>
       </nav>
-      <div class="clearfix colelem" id="pu12652-22"><!-- group -->
-       <!-- m_editable region-id="editable-static-tag-U12652-BP_infinity" template="expander-module.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-       <div class="clearfix grpelem" id="u12652-22" data-muse-uid="U12652" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <h1 id="u12652-4">C<span id="u12652-2">e</span>LAN Expansion Module</h1>
-        <p id="u12652-6">CeEX-DIN</p>
-        <p id="u12652-7">&nbsp;</p>
-        <p id="u12652-9">The CINCH Systems CeLAN Expander Module (EX) mounted on a DIN rail, simplifies your installation by allowing you to interconnect up to 10 different CeLAN devices / wire-runs (+12 VDC, Bus A, Bus B, GND), on separate terminals. It also provides three sets of additional power and ground terminals for other powered devices. The module can be mounted into the Protector and Protector II Enclosure, Protector and Protector II Accessory Enclosure, or Custom Plastic CeLAN Enclosure w/wall &amp; cover tamper.</p>
-        <p id="u12652-11">Features:</p>
-        <ul class="list0 nls-None" id="u12652-20">
-         <li id="u12652-13">Ten 4-position terminal blocks for CeLAN Expansion (+12 VDC, Bus A, Bus B, GND).</li>
-         <li id="u12652-15">Three 2-position terminal blocks (+12 VDC, GND), for power expansion to other powered devices.</li>
-         <li id="u12652-17">Mounts inside Protector and Protector II, Protector and Protector II Accessory, or Enclosure- CeLAN Custom Plastic w/wall &amp; cover tamper.</li>
-         <li id="u12652-19">Includes Accessory hardware kit.</li>
+      <div class="clearfix colelem" id="pu11545-20"><!-- group -->
+       <!-- m_editable region-id="editable-static-tag-U11545-BP_infinity" template="he-motor.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+       <div class="clearfix grpelem" id="u11545-20" data-muse-uid="U11545" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <h1 id="u11545-4">H<span id="u11545-2">e</span>LAN Motor Module</h1>
+        <p id="u11545-6">He-Motor</p>
+        <p id="u11545-7">&nbsp;</p>
+        <p id="u11545-9">The He-Motor Interface card provides remote operation of AC motors from the Ce-Door-EZ. Complies with the new 2016 UL 325 requirement. Modular design allows the interface card to be located at the motor housing. Only four wires are needed between the Ce-Door EZ and up to two (2) He-Motor cards for clean and simple synchronous operations. Local inputs for limit switches, interlocks and motor overload add to a simplified system architecture.</p>
+        <ul class="list0 nls-None" id="u11545-18">
+         <li id="u11545-11">Advanced algorithms learn and manage over current capability by “learning” current draws and providing a safety shutdown.</li>
+         <li id="u11545-13">Provides individual LED indicators on each input and relay output for dynamic display of system functions.</li>
+         <li id="u11545-15">Supports and switches motor voltage input source ratings up to 380VAC 3-phase.</li>
+         <li id="u11545-17">Local open, close and stop buttons for easy commissioning and</li>
         </ul>
        </div>
        <!-- /m_editable -->
-       <div class="clearfix grpelem" id="pu12665"><!-- column -->
-        <!-- m_editable region-id="editable-static-tag-U12665-BP_infinity" template="expander-module.html" data-type="image" -->
-        <div class="clip_frame colelem" id="u12665" data-muse-uid="U12665" data-muse-type="img_frame"><!-- image -->
-         <img class="block" id="u12665_img" src="images/90%20ce-ex-din%20rev-x1.jpg?crc=3782779233" alt="CINCH systems Encrypted Expansion Module" width="235" height="144" data-muse-src="images/90%20ce-ex-din%20rev-x1.jpg?crc=3782779233"/>
+       <div class="clearfix grpelem" id="pu11566"><!-- column -->
+        <!-- m_editable region-id="editable-static-tag-U11566-BP_infinity" template="he-motor.html" data-type="image" -->
+        <div class="clip_frame colelem" id="u11566" data-muse-uid="U11566" data-muse-type="img_frame"><!-- image -->
+         <img class="block" id="u11566_img" src="images/135%20he-motor1.jpg?crc=119535427" alt="CINCH systems Encrypted Motor Module " width="268" height="130" data-muse-src="images/135%20he-motor1.jpg?crc=119535427"/>
         </div>
         <!-- /m_editable -->
-        <nav class="MenuBar clearfix colelem" id="menuu12654"><!-- horizontal box -->
-         <div class="MenuItemContainer clearfix grpelem" id="u12655"><!-- vertical box -->
-          <!-- m_editable region-id="editable-static-tag-U12656" template="expander-module.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-          <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u12656" href="assets/65---ce-ex.pdf" data-href="upload:U33018" target="_blank" data-muse-uid="U12656"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U12659-BP_infinity" template="expander-module.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u12659-6" data-muse-uid="U12659" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u12659-2">Download</p><p id="u12659-4">Data Sheet</p></div><!-- /m_editable --></a>
+        <nav class="MenuBar clearfix colelem" id="menuu11547"><!-- horizontal box -->
+         <div class="MenuItemContainer clearfix grpelem" id="u11548"><!-- vertical box -->
+          <!-- m_editable region-id="editable-static-tag-U11551" template="he-motor.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u11551" href="assets/98---ds-he-motor.pdf" data-href="upload:U33063" target="_blank" data-muse-uid="U11551"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U11552-BP_infinity" template="he-motor.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u11552-6" data-muse-uid="U11552" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u11552-2">Download</p><p id="u11552-4">Data Sheet</p></div><!-- /m_editable --></a>
+          <!-- /m_editable -->
+         </div>
+        </nav>
+        <nav class="MenuBar clearfix colelem" id="menuu14324"><!-- horizontal box -->
+         <div class="MenuItemContainer clearfix grpelem" id="u14325"><!-- vertical box -->
+          <!-- m_editable region-id="editable-static-tag-U14326" template="he-motor.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+          <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u14326" href="assets/i-he-motor---rev.-a---installation-manual--july-20132.pdf" data-href="upload:U31291" target="_blank" data-muse-uid="U14326"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U14328-BP_infinity" template="he-motor.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u14328-8" data-muse-uid="U14328" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p id="u14328-2">Download</p><p id="u14328-6">INSTALLATION <br/>MANUAL</p></div><!-- /m_editable --></a>
           <!-- /m_editable -->
          </div>
         </nav>
        </div>
-       <!-- m_editable region-id="editable-static-tag-U12653-BP_infinity" template="expander-module.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-       <div class="rounded-corners clearfix grpelem" id="u12653-6" data-muse-uid="U12653" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <p id="u12653-2">Product Applications:</p>
-        <p id="u12653-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
+       <!-- m_editable region-id="editable-static-tag-U11546-BP_infinity" template="he-motor.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+       <div class="rounded-corners clearfix grpelem" id="u11546-6" data-muse-uid="U11546" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p id="u11546-2">Product Applications:</p>
+        <p id="u11546-4">Government Agencies, Sensitive Compartmented Information Facilities - SCIF’s, Command Centers. Critical Infrastructure, Embassies, High Security Critical Industrial, Energy Infrastructure, Transportation, Financial Institutions and any facility requiring the highest level of encrypted security.</p>
        </div>
        <!-- /m_editable -->
       </div>

@@ -5,8 +5,11 @@ import os
 import re
 from pathlib import Path
 
-# The stray text to remove
-STRAY_TEXT = "CINCH systems - Intrusion Detection Systems, Modules, Sensors, Kits, and Enclosures"
+# The stray texts to remove
+STRAY_TEXTS = [
+    "CINCH systems - Intrusion Detection Systems, Modules, Sensors, Kits, and Enclosures",
+    "CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures"
+]
 
 def remove_stray_text_from_file(filepath):
     """Remove stray plaintext from a single HTML file."""
@@ -17,10 +20,9 @@ def remove_stray_text_from_file(filepath):
     
     # Look for the pattern: stray text as a standalone line (not within tags)
     # Match the text with optional whitespace before/after, on its own line
-    pattern = r'^\s*' + re.escape(STRAY_TEXT) + r'\s*$'
-    
-    # Replace it with nothing (remove the line)
-    content = re.sub(pattern, '', content, flags=re.MULTILINE)
+    for stray_text in STRAY_TEXTS:
+        pattern = r'^\s*' + re.escape(stray_text) + r'\s*$'
+        content = re.sub(pattern, '', content, flags=re.MULTILINE)
     
     if content != original:
         # Create backup
