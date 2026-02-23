@@ -1,4 +1,25 @@
-﻿# cinchoriginalfixed
+﻿Shim removal and top-gap fixes
+================================
+
+Summary
+- Performed conservative, reversible edits to remove unwanted top-of-page gaps caused by Adobe Muse browser-width shim nodes (elements like `#uNNNN` and `#uNNNN-bw`).
+- Created a preview JSON (`shim_removal_preview.json`) listing 107 shim candidates and their CSS references.
+
+What was changed
+- Trial: removed `#u4474` from `intrusion-detection-systems.html` on branch `shim/remove-u4474-ids` (backup saved as `intrusion-detection-systems.html.bak`).
+- Per-page fixes: added inline shim-hide overrides to six top pages (index/about/training/news/partners/contact) on branch `shim/hide-top-shims`. Backups for each edited HTML were saved as `*.html.bak`.
+- `.gitignore` updated to ignore `shim_removal_preview.json`.
+
+Next steps
+- Parse `shim_removal_preview.json` and run a guarded per-page batch:
+  1. Create a branch for each batch.
+  2. Back up the page as `page.html.bak`.
+  3. Apply a reversible inline shim-hide or coordinated CSS update.
+  4. Bump CSS cache-bust query (`?v=`) for that page.
+  5. Visually verify, then commit.
+
+If you want me to proceed, I will parse the preview and apply the next guarded batch (10 pages), create backups, and open the diffs for review.
+# cinchoriginalfixed
 
 Static website for CINCH Systems, built with Adobe Muse CC 2018. This repo contains the production-ready, optimized version of the site.
 
