@@ -8,7 +8,8 @@ from pathlib import Path
 # The stray texts to remove
 STRAY_TEXTS = [
     "CINCH systems - Intrusion Detection Systems, Modules, Sensors, Kits, and Enclosures",
-    "CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures"
+    "CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures",
+    "CINCH systems - Vehicle Barrier Systems, Modules, Sensors, Kits, and Enclosures"
 ]
 
 def remove_stray_text_from_file(filepath):
