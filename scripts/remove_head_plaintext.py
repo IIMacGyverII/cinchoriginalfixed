@@ -9,7 +9,8 @@ from pathlib import Path
 STRAY_TEXTS = [
     "CINCH systems - Intrusion Detection Systems, Modules, Sensors, Kits, and Enclosures",
     "CINCH systems - Door and Gate Control Systems, Modules, Sensors, Kits, and Enclosures",
-    "CINCH systems - Vehicle Barrier Systems, Modules, Sensors, Kits, and Enclosures"
+    "CINCH systems - Vehicle Barrier Systems, Modules, Sensors, Kits, and Enclosures",
+    "Intrusion Detection Systems, IDS, Security Systems, AES, Encryption, Control Panel Test  Modules, Compatriot, CINCH systems, CINCH, CINCH Security"
 ]
 
 def remove_stray_text_from_file(filepath):
