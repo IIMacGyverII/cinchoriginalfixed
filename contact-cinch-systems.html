@@ -25,7 +25,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="scripts/html5shiv.js?crc=4241844378&amp;v=11" type="text/javascript"></script>
   <![endif]-->
    <style>#cinch-anniversary{position:absolute;left:300px;top:15px;}#cinch-anniversary img{width:80px;height:80px;display:block;}</style>
- </head>
+ <!-- shim-hide: hide top browser-width shim -->
+<style>#u1647-bw, #u1647 {display:none!important;height:0!important;margin:0!important;padding:0!important;visibility:hidden!important}</style>
+</head>
  <body>
 
   <div class="clearfix" id="page"><!-- group -->
@@ -253,3 +255,4 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <script src="scripts/require.js?crc=4177726516&amp;v=11" type="text/javascript" async data-main="scripts/museconfig.js?crc=128606099" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>
+
