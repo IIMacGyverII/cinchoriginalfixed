@@ -1240,9 +1240,6 @@
       <image:loc>https://cinchsystems.com/images/38%20ce-isolatorpic1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://cinchsystems.com/images/31%20ce-tcppic1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://cinchsystems.com/images/90%20ce-ex-din%20rev-x1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3453,12 +3450,6 @@
   </url>
   <url>
     <loc>https://cinchsystems.com/assets/enclosures.pdf</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://cinchsystems.com/assets/107---ce-tcp.pdf</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
