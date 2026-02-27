@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cinchsystems.com" resolutions="1x" timestamp="1717521885754">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cinchsytems.com" resolutions="1x" timestamp="1717521885754">
   <folder name="css">
     <file name="site_global.css" crc="4279427274"/>
     <file name="master_secondary-pages.css" crc="151834452" ref="about-cinch-systems:training:cinch-systems-news:cinch-systems-installer-and-integrator-partners:contact-cinch-systems:results:cinch-systems-ul-and-etl-certifications:privacy-policy:terms-of-use:cinch-systems-gsa-contract:compliance"/>

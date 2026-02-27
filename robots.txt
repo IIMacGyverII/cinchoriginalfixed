@@ -3,4 +3,4 @@ Allow: /
 Disallow: /scripts/
 Disallow: /awstats/
 
-Sitemap: https://cinchsystems.com/sitemap.xml
+Sitemap: https://www.cinchsytems.com/sitemap.xml
