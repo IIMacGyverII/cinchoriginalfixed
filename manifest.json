@@ -1,0 +1,39 @@
+{
+  "name": "CINCH Systems - High Security Technology Solutions",
+  "short_name": "CINCH Systems",
+  "description": "CINCH Systems manufactures high-security intrusion detection, vehicle barriers, and access control systems trusted by the U.S. Government, DoD, and critical infrastructure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "orientation": "portrait-primary",
+  "categories": ["business", "security", "government"],
+  "lang": "en-US",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/cinch_logowed2.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

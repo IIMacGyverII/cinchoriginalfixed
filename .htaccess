@@ -1,8 +1,14 @@
-# ---- HTTPS redirect ----
+# ---- Canonical URL: Redirect to non-www HTTPS ----
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteCond %{HTTPS} off
-    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+    # 1. Force HTTPS first (works even behind proxies/load balancers)
+    RewriteCond %{HTTPS} !=on
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+    # 2. Force non-www (after HTTPS is ensured, so no loop)
+    RewriteCond %{HTTP_HOST} ^www\.cinchsystems\.com$ [NC]
+    RewriteRule ^ https://cinchsystems.com%{REQUEST_URI} [R=301,L]
 </IfModule>
 
 # ---- Security: deny direct access to sensitive files ----
